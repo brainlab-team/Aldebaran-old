@@ -1,0 +1,3 @@
+aldeb-doc-2.8.7.4.zip filter=lfs diff=lfs merge=lfs -text
+naoqi-sdk-2.8.7.4-linux64.tar.gz filter=lfs diff=lfs merge=lfs -text
+pynaoqi-python2.7-2.8.7.4-linux64-20210819_141148.tar.gz filter=lfs diff=lfs merge=lfs -text
